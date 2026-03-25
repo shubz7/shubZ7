@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shubZ7 
-- 👀 I’m interested in Data Science 
+- 👀 I’m a Data Analyst & AI Engineer
 - 🌱 I’m currently learning AI and ML
 - 📫 How to reach me ... instagram: shubz__10
 
